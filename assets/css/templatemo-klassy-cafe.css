@@ -252,6 +252,7 @@ header
 .header-area .main-nav .logo {
   line-height: 100px;
   color: #fff;
+  margin-top: 24px;
   font-size: 28px;
   font-weight: 700;
   text-transform: uppercase;
